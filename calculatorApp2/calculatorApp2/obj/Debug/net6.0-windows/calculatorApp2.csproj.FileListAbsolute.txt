@@ -1,0 +1,16 @@
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\bin\Debug\net6.0-windows\calculatorApp2.exe
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\bin\Debug\net6.0-windows\calculatorApp2.deps.json
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\bin\Debug\net6.0-windows\calculatorApp2.runtimeconfig.json
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\bin\Debug\net6.0-windows\calculatorApp2.dll
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\bin\Debug\net6.0-windows\calculatorApp2.pdb
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\calculatorApp2.Form1.resources
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\calculatorApp2.csproj.GenerateResource.cache
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\calculatorApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\calculatorApp2.AssemblyInfoInputs.cache
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\calculatorApp2.AssemblyInfo.cs
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\calculatorApp2.csproj.CoreCompileInputs.cache
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\calculatorApp2.dll
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\refint\calculatorApp2.dll
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\calculatorApp2.pdb
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\calculatorApp2.genruntimeconfig.cache
+C:\Users\Vacintosh\Documents\projects\calculatorApp2\calculatorApp2\obj\Debug\net6.0-windows\ref\calculatorApp2.dll
